@@ -1,0 +1,29 @@
+
+        
+        .home-container {
+            height: 100vh;
+            background-image: url('https://th.bing.com/th/id/OIP.mY7jZrL2AvXL3KwA1G-NswAAAA?rs=1&pid=ImgDetMain');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #df1616;
+            font-size: 30px;
+            padding: 80px;
+          }
+          
+          .home-container h1 {
+            margin-bottom: 20px;
+          }
+          
+          .home-container button {
+            padding: 10px 50px;
+            background-color: #6E6EFD;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+          }
+          
